@@ -1,0 +1,1 @@
+This contains all files and media (assets included) used to build the 4925 crescendo scouting app. This app was built and developed in Unity, and we would love feedback and suggestions for improvement.
